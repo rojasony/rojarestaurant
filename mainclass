@@ -1,0 +1,16 @@
+package model;
+import java.util.*;
+import java.io.*;
+class mainpvsm
+{
+  public static void main(string args[])
+  {
+   System.out.println("welcome to locanda\n");
+   Adjustment adj=new Adjustment();
+   Booker bkr=new Booker();
+   Booking bkng=new Booking();
+   Downloader dlr=new Downloader();
+   Payment py=new Payment();
+   Room rm=new Room();
+   }
+   }
